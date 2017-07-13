@@ -1,0 +1,30 @@
+body{
+  background-color: #9785c3;
+  text-align: center;
+   font-family: Indie Flower
+}
+h1{
+  color: black;
+ text-align: center
+}
+h2{
+  text align: left
+}
+ul{
+  color: black;
+  text-align: center;
+  list-style:none;
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+}
+p{
+text-align: left;
+}
+image{
+img-align: center;
+  list-style:none;
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+}
